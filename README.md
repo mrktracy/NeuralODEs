@@ -8,3 +8,5 @@ The file 'baseCase.ipynb' contains code for the base case, vanilla neural ODE. T
 The file 'LTC.ipynb' contains code for the liquid time constant (LTC) network case. This code was co-authored by Mark Tracy and Parth Ghayal.
 
 The files 'plotter_LTC.ipynb' and 'plotter_baseCase_Ghalf.ipynb' contain code for post-processing of the model runs. This code was primarily authored by Evan Donovan.
+
+The folder 'Instances' contains instances of the files 'baseCase.ipynb' and 'LTC.ipynb' that were used to train the six runs that are included in our report.
